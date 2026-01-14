@@ -349,3 +349,8 @@ print(list(range(-5,-9,-1)))
 print(list(range(10,0,-1)))
 # Output:
 # [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+
+
+
+
+# All basics notes
